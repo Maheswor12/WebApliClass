@@ -1,0 +1,4 @@
+npm init
+npm install express --save
+for bcrypt js
+npm i bcryptjs
